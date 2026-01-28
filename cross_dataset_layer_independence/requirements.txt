@@ -1,0 +1,16 @@
+# Requirements for cross_dataset_layer_independence analysis
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Deep learning (for data loading/saving)
+torch>=1.9.0
+
+# Data manipulation
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
